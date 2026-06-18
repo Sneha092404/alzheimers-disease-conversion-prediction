@@ -1,0 +1,24 @@
+
+Prediction of Alzheimer's Disease Conversion from Mild Cognitive Impairment Using Serum miRNA Expression Profiles
+
+Dataset:
+- GSE150693
+- 197 human samples
+- 83 MCI converters
+- 114 MCI non-converters
+- 2562 miRNA biomarkers
+
+Methods:
+- Data preprocessing
+- Standardization
+- Random Forest Classification
+- PCA Visualization
+- Feature Importance Analysis
+
+Results:
+- Accuracy: 62.5%
+- Top 10 candidate miRNA biomarkers identified
+- PCA showed overlap between classes
+
+Conclusion:
+Machine learning using serum miRNA expression profiles can predict Alzheimer's disease conversion better than random chance.
